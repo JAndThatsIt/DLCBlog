@@ -1,0 +1,11 @@
+# basic options
+title: Discovery Learning Center Blog
+author: Justin C.
+email: jcdavis555@gmail.com
+description: Discovery Learning Center
+twitter_username: DLCColumbus
+github_username:  JAndThatsIt
+
+# Build settings
+markdown: kramdown
+theme: minima
